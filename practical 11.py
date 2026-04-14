@@ -7,4 +7,4 @@ def my_function():
     x= 10
 
 my_function()
-print(x)
+print("Mahnoor")
